@@ -1,0 +1,3 @@
+conversão-formatos.sh: linha 4: cd: /home/edson/Downloads/imagens-livros2: Arquivo ou diretório inexistente
+ls: não foi possível acessar '*.jpg': Arquivo ou diretório inexistente
+convert convert: Unable to open file (.jpg) [Arquivo ou diretório inexistente].
